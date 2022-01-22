@@ -6,7 +6,7 @@ This is a sentimental analysis project that aims to provide a better insight on 
 The execution requires having all files under the provided folder named 'files' placed under users/maily or users/'username'.
 we've devided the code into 3 notebooks, one for each dialect: final_bert_transfer_learning-english.ipynb, final_bert_transfer_learning-french.ipynb and final_bert_transfer_learning-tunisien.ipynb.
 
-In order to execute the "final_bert_transfer_learning_french" notebook you need to create the following hierarchy:
+In order to execute the "final_bert_transfer_learning_french" notebook you need to create the following hierarchy: <br>
 "train" folder <br>
 "test" folder <br>
 "pos" and "neg" folders under "train" <br>
